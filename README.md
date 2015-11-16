@@ -1,5 +1,7 @@
 # Afaq Tariq's Blog
 
+[![Join the chat at https://gitter.im/afaqurk/blog-afaqurk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/afaqurk/blog-afaqurk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Personal blog of @afaqurk.
 
 ## Posts
